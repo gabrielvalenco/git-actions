@@ -68,5 +68,4 @@ header {
     height: 333px; /* Altura automática para manter a proporção */
     object-fit: cover; /* Cobre o espaço da imagem sem distorcer */
     border-radius: 8px; /* Bordas arredondadas, se desejado */
-    border: 10px solid #90A9B7;
 }
