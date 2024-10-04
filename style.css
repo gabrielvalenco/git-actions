@@ -60,6 +60,7 @@ header {
     justify-content: center; /* Centraliza as imagens na seção */
     gap: 77px; /* Espaçamento entre as imagens */
     margin-top: 77px; /* Espaço acima das imagens */
+    background-color: #D4AA7D;
 }
 
 .services img {
